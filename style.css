@@ -579,3 +579,167 @@ a{
 .hideemailreg{
     display: none;
 }
+@media screen and (max-width: 910px){
+    body{
+        width: 70%;
+        position: relative;
+    }
+    .head{
+        width: 77vw;
+        position: fixed;
+    }
+    .head2{
+        width: 70vw;
+    }
+    .head2button{
+        display: none;
+    }
+    .prepare{
+        width: 90vw;
+    }
+    .preparemain{
+        display: block;
+        width: 70vw;
+    }
+    .preparetext{
+        width: 100%;
+    }
+    .img1{
+        width: 100%;
+    }
+    .trio{
+        width: 75vw;
+        margin-top: 12rem;
+        padding: 0;
+        margin-left: 4rem;
+        margin-bottom: 2rem;
+    }
+    .encourage{
+        display: block;
+        margin: 0;
+        margin-left: 4rem;
+        margin-bottom: 31rem;
+        width: 70vw;
+    }
+    .img2{
+        width: 100%;
+    }
+    .encouragealltext{
+        display: block;
+        width: 100%;
+    }
+    .encouragelist{
+        display: block;
+        margin-top: 1rem;
+    }
+    .curriculum{
+        width: 70vw;
+    }
+    .curriculumtext{
+        margin-left: 4rem;
+        width: 90%;
+    }
+    .tabs{
+        display: block;
+    }
+    .tab{
+        margin-top: 1rem;
+    }
+    .pricing{
+        display: block;
+        margin-bottom: 30rem;
+        height: 60vh;
+        width: 80vw;
+    }
+    .pricetext{
+        margin: 0;
+        margin-top: 1rem;
+    }
+    .pricetabs{
+        display: block;
+        margin-top: 1rem;
+        margin-left: 9rem;
+    }
+    .pricetab{
+        margin-bottom: 1rem;
+        width: 40vw;
+    }
+    .fourpoints{
+        display: block;
+        height: 90vh;
+        width: 80vw;
+    }
+    .firsttwo{
+        margin-bottom: 2.5rem;
+    }
+    .prosolving{
+        width: 10%;
+    }
+    .crithink{
+        width: 90vw;
+    }
+    .join{
+        display: block;
+        width: 80vw;
+        height: 150vh;
+    }
+    .jointext{
+        height: 35%;
+        margin-bottom: 6rem;
+        width: 60vw;
+    }
+    .img3{
+        height: 50%;
+        width: 100%;
+    }
+    .rating{
+        display: block;
+        width: 70vw;
+    }
+    .ratingtext{
+        margin-left: 2rem;
+        width: 100%;
+    }
+    .signup{
+        display: block;
+        width: 100%;
+        margin-left: 3rem;
+        margin-bottom: 3rem;
+    }
+    .ratingbutton{
+        margin-top: 0.5rem;
+        width: 60%;
+        box-shadow: 2px 4px 10px rgb(164, 164, 164);
+    }
+    .contact{
+        display: block;
+        height: 85vh;
+        width: 80vw;
+        margin: 0;
+        margin-bottom: 4rem;
+    }
+    .firstabout{
+        margin-left: 5rem;
+        margin-bottom: 2rem;
+    }
+    .restabout{
+        display: flex;
+        width: 150vw;
+        margin-left: 5rem;
+    }
+    .foot{
+        position: absolute;
+        bottom: 0;
+        width: 80vw;
+        height: 15vh;
+        display: block;
+        text-align: center;
+    }
+    .KTC{
+        margin-top: 1rem;
+    }
+    .policyterms{
+        margin-left: 10rem;
+        margin-top: 1rem;
+    }
+}
