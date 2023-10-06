@@ -745,4 +745,12 @@ a{
         margin-left: 14rem;
         margin-top: 1rem;
     }
+    .emailreg{
+        grid-row: 8 / 9;
+        grid-column: 2 / 10;
+        height: 30vh;
+        width: 80vw;
+        margin-top: 130rem;
+        margin-right: 1rem;
+    }
 }
